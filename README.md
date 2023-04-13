@@ -98,6 +98,9 @@ console.log("Hello World!");
 | Row 1: Column 1 | Column 2 |
 | Row 2: Column 1 | Column 2 |
 ```
+
+***
+
 <details>
   <summary>Click to expand dropdown</summary>
   
