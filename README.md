@@ -57,7 +57,7 @@ console.log("Hello World!");
 ***
 
 * Link: <br>
-[Google](https://www.google.com/)
+[Google](https://github.com/shiningsudipto)
 ```
 [Google](https://www.google.com/)
 ```
