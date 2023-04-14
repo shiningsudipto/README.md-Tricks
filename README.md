@@ -1,3 +1,4 @@
+>In vs code editor use Ctrl+Shift+v for preview.
 # Main Heading
 ## Subheading
 ### Sub-subheading
@@ -113,4 +114,22 @@ console.log("Hello World!");
   
   Dropdown content goes here.
 </details>
+```
+
+***
+* center alignment
+<center>This text will be centered</center>
+
+<div  align="center" class="container">
+  <h1>My Project</h1>
+  <p>This is a paragraph of text.</p>
+</div>
+
+```
+<center>This text will be centered</center>
+
+<div  align="center" class="container">
+  <h1>My Project</h1>
+  <p>This is a paragraph of text.</p>
+</div>
 ```
